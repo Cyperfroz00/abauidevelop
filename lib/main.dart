@@ -40,7 +40,7 @@ class _MyAppState extends State<MyApp> {
                     children: [
                       Container(
                         margin: EdgeInsets.only(left:5.0,top: 5),
-                        color: Colors.indigo,
+                        color: Colors.red,
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
